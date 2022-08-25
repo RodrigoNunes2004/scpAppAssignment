@@ -1,0 +1,17 @@
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
+.w3-sidebar {
+  z-index: 3;
+  width: 250px;
+  top: 43px;
+  bottom: 0;
+  height: inherit;
+}
+
+.w3-row w3-padding-64{
+    max-width: 100%;
+    height: auto;
+}
+
+@media  screen and (max-width: 868px){
+
+}
